@@ -18,9 +18,8 @@ This repository contains a curated list of awesome references for learning-to-ra
 
 ## Must-Read-Refs
 
-[DATA][ES] Chapelle, O., & Chang, Y. (2011, January). [Yahoo! learning to rank challenge overview](http://proceedings.mlr.press/v14/chapelle11a). In Proceedings of the learning to rank challenge (pp. 1-24). PMLR. 
+[DATA][ES] Chapelle, O., & Chang, Y. (2011, January). [Yahoo! learning to rank challenge overview](http://proceedings.mlr.press/v14/chapelle11a). In Proceedings of the learning to rank challenge (pp. 1-24). PMLR. [chapelle2011yahoo]
 
-- **bibitem**: [chapelle2011yahoo]
 - **keywords**: Yahoo dataset, query, document
 - **summary**: The paper provides overview of Yahoo Learning to Rank Challenge. Winning methods: LambdaMART boosted tree models, LambdaRank neural nets, LogitBoost, ... (most of them are boosting methods)
 
