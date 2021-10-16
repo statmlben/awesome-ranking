@@ -74,10 +74,15 @@ This repository contains a curated list of awesome references for learning-to-ra
 
 [Syn][METH][LT] Fanuel, M., & Suykens, J. A. (2019). [Deformed Laplacians and spectral ranking in directed networks](https://arxiv.org/pdf/1511.00492.pdf). Applied and Computational Harmonic Analysis, 47(2), 397-422. 
 
-- **keywords**: discrete laplacians; directed graphs; random walks; synchronization; [fanuel2019deformed]
+- **keywords**: discrete laplacians, directed graphs, random walks, synchronization; [fanuel2019deformed]
 - **summary**: (i) dilation Laplacians are shown to be useful tools for ranking in directed networks of pairwise comparisons; (ii) An eformation parameter enabling the emphasis of the top-k objects in the ranking.
 
 [Loss][LT] Uematsu, K., & Lee, Y. (2017). [On theoretically optimal ranking functions in bipartite ranking](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.452.2387&rep=rep1&type=pdf). Journal of the American Statistical Association, 112(519), 1311-1322. 
 
-- **keywords**: hinge loss; Bipartite ranking; negative example; [uematsu2017theoretically]
+- **keywords**: hinge loss, Bipartite ranking, negative example; [uematsu2017theoretically]
 - **summary**: (i) Hinge loss is Fisher-consistency wrt pairwise zero-one loss in Bipartite ranking (Theorem 5).
+
+[Loss][LT][METH][Syn] Waegeman, W., Pahikkala, T., Airola, A., Salakoski, T., Stock, M., & De Baets, B. (2012). [A kernel-based framework for learning graded relations from data](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6179986). IEEE Transactions on Fuzzy Systems, 20(6), 1090-1101.
+
+- **keywords**: kernel, synchronization, weak stochastic transitivity, linear stochastic transitivity, pairwise approach, bivariate ranking function; [waegeman2012kernel]
+- **summary**: (i) a bivariate kernel presenting a sufficient condition of weak stochastic transitivity, the linear stochastic transitivity (LST; see Definition IV.3), in its associated reproducing kernel Hilbert space (RKHS).
