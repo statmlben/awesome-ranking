@@ -11,7 +11,7 @@ This repository contains a curated list of awesome references for learning-to-ra
 | :golf: Methodology (METH) | :blue_book: Learning Theory (LT) | :dart: Optimization (OPT) | 
 | :computer: Software (SW) | :duck: Kaggle Competition (Kaggle) | :keyboard: Empirical Studies (ES) |
 | :bar_chart: Dataset (DATA) | :goal_net: Loss Function (Loss) | :globe_with_meridians: Deep Learning (DL) | 
-| :arrows_counterclockwise: Ranking Synchronization (Syn) |
+| :arrows_counterclockwise: Ranking Aggregation or Synchronization (RA) |
 <!-- | :mag_right: Statistical Inference (INF) | :computer: Software (SW) | :unlock: Explainable AI (XAI) | 
 | :cherries: Biostatistics (BIO) | :keyboard: Empirical Studies (ES) | :globe_with_meridians: Deep Learning (DL) | 
 | :bar_chart: Dataset (DATA) | :arrow_right: Causal Inference (CI) | -->
@@ -72,7 +72,7 @@ This repository contains a curated list of awesome references for learning-to-ra
 - **keywords**: pairwise, zero-one loss, Fisher-consistency, consistency, Bipartite ranking; [dai2019scalable]
 - **summary**: (i) The regrets of MAP, DCG, Sum-Loss are all upper bounded by the pairwise 0-1 loss. That is, good performance in pairwise 0-1 loss imply good performance in all mentioned losses; (ii) convergence rate, truncated hinge loss (linear of 0-1 loss).
 
-[Syn][METH][LT] Fanuel, M., & Suykens, J. A. (2019). [Deformed Laplacians and spectral ranking in directed networks](https://arxiv.org/pdf/1511.00492.pdf). Applied and Computational Harmonic Analysis, 47(2), 397-422. 
+[RA][METH][LT] Fanuel, M., & Suykens, J. A. (2019). [Deformed Laplacians and spectral ranking in directed networks](https://arxiv.org/pdf/1511.00492.pdf). Applied and Computational Harmonic Analysis, 47(2), 397-422. 
 
 - **keywords**: discrete laplacians, directed graphs, random walks, synchronization; [fanuel2019deformed]
 - **summary**: (i) dilation Laplacians are shown to be useful tools for ranking in directed networks of pairwise comparisons; (ii) An eformation parameter enabling the emphasis of the top-k objects in the ranking.
@@ -82,7 +82,12 @@ This repository contains a curated list of awesome references for learning-to-ra
 - **keywords**: hinge loss, Bipartite ranking, negative example; [uematsu2017theoretically]
 - **summary**: (i) Hinge loss is Fisher-consistency wrt pairwise zero-one loss in Bipartite ranking (Theorem 5).
 
-[Loss][LT][METH][Syn] Waegeman, W., Pahikkala, T., Airola, A., Salakoski, T., Stock, M., & De Baets, B. (2012). [A kernel-based framework for learning graded relations from data](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6179986). IEEE Transactions on Fuzzy Systems, 20(6), 1090-1101.
+[Loss][LT][METH][RA] Waegeman, W., Pahikkala, T., Airola, A., Salakoski, T., Stock, M., & De Baets, B. (2012). [A kernel-based framework for learning graded relations from data](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6179986). IEEE Transactions on Fuzzy Systems, 20(6), 1090-1101.
 
 - **keywords**: kernel, synchronization, weak stochastic transitivity, linear stochastic transitivity, pairwise approach, bivariate ranking function; [waegeman2012kernel]
 - **summary**: (i) a bivariate kernel presenting a sufficient condition of weak stochastic transitivity, the linear stochastic transitivity (LST; see Definition IV.3), in its associated reproducing kernel Hilbert space (RKHS).
+
+[RA][METH][LT] Shah, N. B., & Wainwright, M. J. (2017). [Simple, robust and optimal ranking from pairwise comparisons](https://www.jmlr.org/papers/volume18/16-206/16-206.pdf). The Journal of Machine Learning Research, 18(1), 7246-7283.
+
+- **keywords**: pairwise approach, Borda counting; [shah2017simple]
+- **summary**: (i) Borda counting based method to generate a score to all item from pairwise comparison. (ii) define and analyze the difficulty of Top-k ranking for the proposed method.
