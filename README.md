@@ -12,9 +12,7 @@ This repository contains a curated list of awesome references for learning-to-ra
 | :computer: Software (SW) | :duck: Kaggle Competition (Kaggle) | :keyboard: Empirical Studies (ES) |
 | :bar_chart: Dataset (DATA) | :goal_net: Loss Function (Loss) | :globe_with_meridians: Deep Learning (DL) | 
 | :arrows_counterclockwise: Ranking Aggregation or Synchronization (RA) |
-<!-- | :mag_right: Statistical Inference (INF) | :computer: Software (SW) | :unlock: Explainable AI (XAI) | 
-| :cherries: Biostatistics (BIO) | :keyboard: Empirical Studies (ES) | :globe_with_meridians: Deep Learning (DL) | 
-| :bar_chart: Dataset (DATA) | :arrow_right: Causal Inference (CI) | -->
+
 
 ## Must-Read-Refs
 
