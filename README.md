@@ -84,7 +84,12 @@ This repository contains a curated list of awesome references for learning-to-ra
 - **keywords**: kernel, synchronization, weak stochastic transitivity, linear stochastic transitivity, pairwise approach, bivariate ranking function; [waegeman2012kernel]
 - **memo**: (i) a bivariate kernel presenting a sufficient condition of weak stochastic transitivity, the linear stochastic transitivity (LST; see Definition IV.3), in its associated reproducing kernel Hilbert space (RKHS).
 
-[RA][METH][LT] Shah, N. B., & Wainwright, M. J. (2017). [Simple, robust and optimal ranking from pairwise comparisons](https://www.jmlr.org/papers/volume18/16-206/16-206.pdf). The Journal of Machine Learning Research, 18(1), 7246-7283.
+[RA][METH][LT] Shah, N. B., & Wainwright, M. J. (2017). [Simple, robust and optimal ranking from pairwise comparisons](https://www.jmlr.org/papers/volume18/16-206/16-206.pdf). Journal of Machine Learning Research, 18(1), 7246-7283.
 
 - **keywords**: pairwise approach, Borda counting; [shah2017simple]
 - **memo**: (i) Borda counting based method to generate a score to all item from pairwise comparison. (ii) define and analyze the difficulty of Top-k ranking for the proposed method.
+
+[METH][LT] Chen, Y., Fan, J., Ma, C., & Wang, K. (2019). [Spectral method and regularized MLE are both optimal for top-K ranking](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6785035/). Annals of statistics, 47(4), 2204.
+
+- **keywords**: top-K ranking; pairwise comparisons; spectral method; regularized MLE; entrywise perturbation; leave-one-out analysis; reversible Markov chains; [chen2019spectral]
+- **summary**: scoring approach to ranking (model-based on (1.1)); minimax rate for ranking; gap assumption between top-k and top-(k+1).
