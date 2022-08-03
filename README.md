@@ -87,7 +87,7 @@ This repository contains a curated list of awesome references for learning-to-ra
 [RA][METH][LT] Shah, N. B., & Wainwright, M. J. (2017). [Simple, robust and optimal ranking from pairwise comparisons](https://www.jmlr.org/papers/volume18/16-206/16-206.pdf). Journal of Machine Learning Research, 18(1), 7246-7283.
 
 - **keywords**: pairwise approach, Borda counting; [shah2017simple]
-- **memo**: (i) Borda counting based method to generate a score to all item from pairwise comparison. (ii) define and analyze the difficulty of Top-k ranking for the proposed method.
+- **memo**: (i) Borda counting based method to generate scores to all items based on pairwise comparison. (ii) define and analyze the difficulty of Top-k ranking for the proposed method.
 
 [METH][LT] Chen, Y., Fan, J., Ma, C., & Wang, K. (2019). [Spectral method and regularized MLE are both optimal for top-K ranking](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6785035/). Annals of statistics, 47(4), 2204.
 
