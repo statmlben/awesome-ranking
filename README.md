@@ -37,6 +37,15 @@ This repository contains a curated list of awesome references for learning-to-ra
 - **keywords**: ranking, U-statistics, convex loss, pairwise, bivariate ranking function; [clemenccon2008ranking]
 - **memo**: The paper formulates the ranking problem in a *pairwise classification* framework, consistency of empirical risk minimizers is established.
 
+[METH][OPT] Burges, C., Shaked, T., Renshaw, E., Lazier, A., Deeds, M., Hamilton, N., & Hullender, G. (2005, August). (Learning to rank using gradient descent)[https://dl.acm.org/doi/pdf/10.1145/1102351.1102363?casa_token=j1eFCUL99SUAAAAA:LslBnjJ_iEXthdsANyIMBOooIlKo5ZO73bMi4YlFXnhoasIohj04IOghY7BRSc4QINzWS4nvrl92wA]. In Proceedings of the 22nd international conference on Machine learning (pp. 89-96).
+
+- **keywords**: RankNet [burges2005learning]
+- **memo**: RankNet is a pairwise probabilistic model based on the scoring approach: sigmoid function of difference between two scores.
+
+[METH][OPT] Burges, C. J. (2010). (From ranknet to lambdarank to lambdamart: An overview)[https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.180.634&rep=rep1&type=pdf]. Learning, 11(23-581), 81.
+
+- **keywords**: RankNet, LambdaRank, LambdaMART [burges2010ranknet]
+
 [SW][DL][METH] Pasumarthi, R. K., Bruch, S., Wang, X., Li, C., Bendersky, M., Najork, M., ... & Wolf, S. (2019, July). [Tf-ranking: Scalable tensorflow library for learning-to-rank](https://dl.acm.org/doi/abs/10.1145/3292500.3330677). In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (pp. 2970-2978). [ [slides](https://github.com/tensorflow/ranking) + [GitHub](https://github.com/tensorflow/ranking) ] 
 
 - **keywords**: neural learning-to-rank, handcrafted features; [pasumarthi2019tf]
