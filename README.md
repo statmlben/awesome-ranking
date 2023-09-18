@@ -101,4 +101,9 @@ This repository contains a curated list of awesome references for learning-to-ra
 [METH][LT] Chen, Y., Fan, J., Ma, C., & Wang, K. (2019). [Spectral method and regularized MLE are both optimal for top-K ranking](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6785035/). Annals of statistics, 47(4), 2204.
 
 - **keywords**: top-K ranking; pairwise comparisons; spectral method; regularized MLE; entrywise perturbation; leave-one-out analysis; reversible Markov chains; [chen2019spectral]
-- **summary**: scoring approach to ranking (model-based on (1.1)); minimax rate for ranking; gap assumption between top-k and top-(k+1).
+- **memo**: scoring approach to ranking (model-based on (1.1)); minimax rate for ranking; gap assumption between top-k and top-(k+1).
+
+[LT][Loss] Xia, F., Liu, T. Y., Wang, J., Zhang, W., & Li, H. (2008, July). Listwise approach to learning to rank: theory and algorithm. In Proceedings of the 25th international conference on Machine learning (pp. 1192-1199). 
+
+- **keywords**: ranking loss; listwise; consistency; order sentitve; [xia2008listwise]
+- **memo**: Ranking losses for listwise learning-to-rank, and their theoretical consistency.
